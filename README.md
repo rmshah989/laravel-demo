@@ -2,6 +2,14 @@
 
 Run the following commands inside the virtual server to setup the database & dummy data for the form to work
 
+Default DB connection details for the application is
+``` 
+>Database - sctochbox
+>User ID - root
+>password - root
+```
+You can change it as per your system configuration by modifying the [.env](https://github.com/rmshah989/laravel-demo/blob/master/.env) file 
+
 ##DB MIGRATION
 #Steps to Create tables using artisan commands
 EG:
